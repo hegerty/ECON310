@@ -10,7 +10,9 @@ Here is some "review" material on basic statistics. These are also used in ECON 
 [Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) [.pdf: [understanding correlations](https://www.japi.org/article/files/principles_of_correlation_analysis.pdf)]       
 
 [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw)  
-[Regression Analysis in R](https://youtu.be/qN_ulTayz2U)                                                                                          
+[Regression Analysis in R](https://youtu.be/qN_ulTayz2U)     
+
+(I went over this early in 346, but it is really for 310):
 [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)         
 
 Here is some information on writing in Economics:
