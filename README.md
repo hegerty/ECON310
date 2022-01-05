@@ -21,4 +21,4 @@ Here is some information on writing in Economics:
 [Graphics and Text in a Macroeconomic Report](https://youtu.be/DyQNlHSSVkQ)       
 [Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk)                 //([Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv)) 
 [Making a (Regression) Table in Excel](https://youtu.be/1_X5DsZiBAI)        
-NEW! Formatting a Document in LaTex (Coming Soon)
+[NEW! Formatting a Document in LaTex](https://youtu.be/AMZSL9yiRr8)
