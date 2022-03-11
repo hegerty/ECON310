@@ -2,6 +2,8 @@
 
 Here is a link to the tentative [Syllabus](https://drive.google.com/file/d/1mSVWJYid3GEor1Ikvewi9o4WidV-7kWb/view?usp=sharing). the course starts March 22, 2022 and runs for eight weeks.
 
+<b>NEW!</b> I added some [notes](https://github.com/hegerty/ECON310/blob/main/ECON_310_Notes.pdf) that I will update as the course progresses.
+
 Here is some "review" material on basic statistics. These are also used in ECON 343 and/or 346. 
 
 [Downloading Free Software: RStudio and gretl](https://www.youtube.com/watch?v=3jzJ1RzazxM)  
