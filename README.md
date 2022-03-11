@@ -21,7 +21,7 @@ Here is some "review" material on basic statistics. These are also used in ECON 
 Here is some information on writing in Economics:  
 [Writing a Macroeconomic Report](https://youtu.be/V2MMgGsPyuQ)              
 [Graphics and Text in a Macroeconomic Report](https://youtu.be/DyQNlHSSVkQ)       
-[Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk) [Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv)
-
+[Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk) [[Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv)]
+\
 [Making a (Regression) Table in Excel](https://youtu.be/1_X5DsZiBAI)        
 [NEW! Formatting a Document in LaTeX](https://youtu.be/AMZSL9yiRr8)
