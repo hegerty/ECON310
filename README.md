@@ -14,11 +14,11 @@ Here is some "review" material on basic statistics. These are also used in ECON 
 [Basic Summary Statistics in R](https://youtu.be/C4K31VFDb1s) [.pdf: [statistical formulas](http://integral-table.com/downloads/stats.pdf)]                                      
 [Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) [.pdf: [understanding correlations](https://www.japi.org/article/files/principles_of_correlation_analysis.pdf)]       
 
-[Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw)  
+[Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw) [[Excel File]](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)  
 [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)     
 
 (I went over this early in 346, but it is really for 310):  
-[Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)         
+[Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc) [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09b_nonparbeta.R)         
 
 Here is some information on writing in Economics:  
 [Writing a Macroeconomic Report](https://youtu.be/V2MMgGsPyuQ)              
