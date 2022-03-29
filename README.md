@@ -15,7 +15,7 @@ Here is some "review" material on basic statistics. These are also used in ECON 
 [Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) [.pdf: [understanding correlations](https://www.japi.org/article/files/principles_of_correlation_analysis.pdf)]       
 
 [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw) [[Excel File]](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)  
-[Regression Analysis in R](https://youtu.be/qN_ulTayz2U)     
+[Regression Analysis in R](https://youtu.be/qN_ulTayz2U) [[.R File]] (https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.R)     
 
 (I went over this early in 346, but it is really for 310):  
 [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc) [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09b_nonparbeta.R)         
