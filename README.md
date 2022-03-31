@@ -6,7 +6,7 @@ Here is a link to the tentative [Syllabus](https://drive.google.com/file/d/1mSVW
 
 Here is a [.pdf](https://www.law.berkeley.edu/wp-content/uploads/2015/04/Proofreading-Marks.pdf) with some Proofreader's markings. I use many (but not all) of them in my work.
 
-Here is some "review" material on basic statistics. These are also used in ECON 343 and/or 346. 
+<b>Here is some "review" material on basic statistics.</b> These are also used in ECON 343 and/or 346. 
 
 [Downloading Free Software: RStudio and gretl](https://www.youtube.com/watch?v=3jzJ1RzazxM)  
 [A Very Basic Introduction to R and RStudio](https://youtu.be/is5BXo0HfZs)    
@@ -17,10 +17,14 @@ Here is some "review" material on basic statistics. These are also used in ECON 
 [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw) [[Excel File]](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)  
 [Regression Analysis in R](https://youtu.be/qN_ulTayz2U) [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.R)     
 
+<b>Here are some new videos for 310:</b>
+
+[Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw) [[.R File]]()
+
 (I went over this early in 346, but it is really for 310):  
 [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc) [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09b_nonparbeta.R)         
 
-Here is some information on writing in Economics:  
+<b>Here is some information on writing in Economics:</b>  
 [Writing a Macroeconomic Report](https://youtu.be/V2MMgGsPyuQ)              
 [Graphics and Text in a Macroeconomic Report](https://youtu.be/DyQNlHSSVkQ)       
 [Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk) [[Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv)]
