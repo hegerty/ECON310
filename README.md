@@ -19,7 +19,7 @@ Here is a [.pdf](https://www.law.berkeley.edu/wp-content/uploads/2015/04/Proofre
 
 <b>Here are some new videos for 310:</b>
 
-[Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw) [[.R File]]()
+[Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw) [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Lec2_Nonparametric.R)
 
 (I went over this early in 346, but it is really for 310):  
 [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc) [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09b_nonparbeta.R)         
