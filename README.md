@@ -1,6 +1,6 @@
 # ECON310, Northeastern Illinois University
 
-Here is a link to the [Syllabus](https://drive.google.com/file/d/1mSVWJYid3GEor1Ikvewi9o4WidV-7kWb/view?usp=sharing). the course starts March 22, 2022 and runs for eight weeks.
+Here is a link to the [Syllabus](https://drive.google.com/file/d/1mSVWJYid3GEor1Ikvewi9o4WidV-7kWb/view?usp=sharing). the course starts March 22, 2022 and runs for eight weeks. We meet in BBH 242, TR, 5:40-6:55pm. 
 
 <b>NEW!</b> I added some [notes](https://github.com/hegerty/ECON310/blob/main/ECON_310_Notes.pdf) that I will update as the course progresses.
 
