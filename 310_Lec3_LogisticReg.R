@@ -1,5 +1,5 @@
 ###############################################
-# Chicago Block Groups: logistic Regression
+# Chicago Block Groups: Logistic Regression
 # In class example, ECON 310 Spring 2022
 ###############################################
 #install.packages("rms") <- This package gives pseudo-R2
@@ -57,7 +57,7 @@ lrm4<-lrm(BANKCOUNTB~PERCVAC+PERCWHT,data=data)
 # Compare Pseudo-R2
 pr2<-cbind(lrm0$stats[10],lrm1$stats[10],lrm2$stats[10],lrm3$stats[10],lrm4$stats[10])
 colnames(pr2)<-0:4
-pr2
+round(pr2,4)
 lrm3 # best choice?
 
 # plot bank variable vs. vacancy rate
