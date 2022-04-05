@@ -94,8 +94,8 @@ print(cortab) # correlation table
 ## Just the main part
 ## CHANGE VARIABLE NAMES, DATES AS NEEDED
 #################################################
-# s1<-         # CHANGE YOUR SET OF VARIABLES
-colnames(s1)<-c("dlnE","delRES","delrdiff") # change dates as needed
+# s1<-         # DEFINE YOUR SET OF VARIABLES
+colnames(s1)<-c("dlnE","delRES","delrdiff") # change names as needed
 pca<-prcomp(s1,center = TRUE,scale. = TRUE) # s1 is the set of variables you want to use
 pcev<-sqrt(pca$sdev)
 pcl<-pca$rotation # this gets overwritten
