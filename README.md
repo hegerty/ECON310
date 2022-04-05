@@ -20,7 +20,7 @@ I write more about <b>writing in Economics</b> in the [book](https://www.scribd.
 [Regression Analysis in R](https://youtu.be/qN_ulTayz2U) [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.R)     
 [NEW!] [Understanding Regression Coefficients](https://youtu.be/cBlOw1XWAtc) [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.R)
 
-<b>Here are some new videos for 310:</b>  
+<b>Here are some new videos for 310. These describe the main statistical procedures covered in the course:</b>  
 [Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw) [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Lec2_Nonparametric.R)  
 [Introduction to Logistic Regression in R](https://youtu.be/4N3x9jIyXOI) [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec3_LogisticReg.R)  
 [Principal Components Analysis Using R](https://youtu.be/Up6ydib8R44) [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec4_PCA.R)
