@@ -51,7 +51,7 @@ colnames(s1)<-c("dlnE","delRES","delrdiff")
 # do pca; here make tables manually
 pca<-prcomp(s1,center = TRUE,scale. = TRUE) # s1 is the set of variables you want to use
 #Eigenvalues
-pcev<-sqrt(pca$sdev)
+pcev<-pca$sdev^2 # This line was corrected
 #Loadings: (will be 1 or 2)
 pcl<-pca$rotation
 loadings<-pcl[,1] # factor loadings
@@ -97,7 +97,7 @@ print(cortab) # correlation table
 # s1<-         # DEFINE YOUR SET OF VARIABLES
 colnames(s1)<-c("dlnE","delRES","delrdiff") # change names as needed
 pca<-prcomp(s1,center = TRUE,scale. = TRUE) # s1 is the set of variables you want to use
-pcev<-sqrt(pca$sdev)
+pcev<-pca$sdev^2 # This line was corrected
 pcl<-pca$rotation # this gets overwritten
 loadings<-pcl[,1]
 pc1<-pca$x[,1]
