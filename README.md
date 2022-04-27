@@ -1,4 +1,4 @@
-# ECON310, Northeastern Illinois University
+# ECON310: Business and Economic Statistics II, NEIU
 
 Here is a link to the [Syllabus](https://drive.google.com/file/d/1mSVWJYid3GEor1Ikvewi9o4WidV-7kWb/view?usp=sharing). the course starts March 22, 2022 and runs for eight weeks. We meet in BBH 242, TR, 5:40-6:55pm. 
 
@@ -8,7 +8,8 @@ Here is a [.pdf](https://www.law.berkeley.edu/wp-content/uploads/2015/04/Proofre
 
 I write more about <b>writing in Economics</b> in the [book](https://www.scribd.com/document/459205554/Macroeconomic-Data-Analysis-Revised-2020) for ECON 343.
 
-<b>Here is some "review" material on basic statistics.</b> These are also used in ECON 343 and/or 346. 
+<b>Here is some "review" material on basic statistics and regression analysis.</b>   
+Some of these are also used in ECON 343 and/or 346 but a few are new for 310. 
 
 [Downloading Free Software: RStudio and gretl](https://www.youtube.com/watch?v=3jzJ1RzazxM)  
 [A Very Basic Introduction to R and RStudio](https://youtu.be/is5BXo0HfZs)    
@@ -18,7 +19,7 @@ I write more about <b>writing in Economics</b> in the [book](https://www.scribd.
 
 [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw) &nbsp;&nbsp;&nbsp;&nbsp; [[Excel File]](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)  
 [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.R)     
-[NEW!] [Understanding Regression Coefficients](https://youtu.be/cBlOw1XWAtc)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.R)
+[Understanding Regression Coefficients](https://youtu.be/cBlOw1XWAtc)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.R)
 
 <b>Here are some new videos for 310. These describe the main statistical procedures covered in the course:</b>  
 [Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Lec2_Nonparametric.R)  
