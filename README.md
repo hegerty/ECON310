@@ -17,9 +17,9 @@ Some of these are also used in ECON 343 and/or 346 but a few are new for 310.
 [Basic Summary Statistics in R](https://youtu.be/C4K31VFDb1s) &nbsp;&nbsp;&nbsp;&nbsp; [.pdf: [statistical formulas](http://integral-table.com/downloads/stats.pdf)]                                      
 [Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) &nbsp;&nbsp;&nbsp;&nbsp; [.pdf: [understanding correlations](https://www.japi.org/article/files/principles_of_correlation_analysis.pdf)]       
 
-[Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw) &nbsp;&nbsp;&nbsp;&nbsp; [[Tutorial]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.md) [[Excel File]](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)  
+[Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw) &nbsp;&nbsp;&nbsp;&nbsp;[[Excel File]](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)  
 [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.R)     
-[Understanding Regression Coefficients](https://youtu.be/cBlOw1XWAtc)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.R)
+[Understanding Regression Coefficients](https://youtu.be/cBlOw1XWAtc)&nbsp;&nbsp;&nbsp;&nbsp; [[Tutorial]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.md) [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.R)
 
 <b>Here are some new videos for 310. These describe the main statistical procedures covered in the course:</b>  
 [Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Lec2_Nonparametric.R)  
