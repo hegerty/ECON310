@@ -3,7 +3,7 @@ Understanding Regression Coefficients
 
 This example conducts a “standard” regression using Ordinary Least
 Squares, with the aim of understanding the main output and the
-coefficients.
+coefficients. The standard error, t-statistic, and p-value are relatedto one another and are used to test whether a coefficient is significant.
 
 ## Generating the Data
 
