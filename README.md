@@ -24,7 +24,7 @@ Some of these are also used in ECON 343 and/or 346 but a few are new for 310.
 <b>Here are some new videos for 310. These describe the main statistical procedures covered in the course:</b>  
 [Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Lec2_Nonparametric.R)  
 [Introduction to Logistic Regression in R](https://youtu.be/4N3x9jIyXOI)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec3_LogisticReg.R)  
-[Principal Components Analysis Using R](https://youtu.be/Up6ydib8R44)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec4_PCA.R)
+[Principal Component Analysis Using R](https://youtu.be/Up6ydib8R44)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec4_PCA.R)
 
 (I went over this early in 346, but it is really for 310):  
 [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON346/blob/main/Lec09b_nonparbeta.R)         
