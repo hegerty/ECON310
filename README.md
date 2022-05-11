@@ -1,8 +1,8 @@
 # ECON310: Business and Economic Statistics II, NEIU
 
-Here is a link to the [Syllabus](https://drive.google.com/file/d/1mSVWJYid3GEor1Ikvewi9o4WidV-7kWb/view?usp=sharing). the course starts March 22, 2022 and runs for eight weeks. We meet in BBH 242, TR, 5:40-6:55pm. 
+Here is a link to the [Syllabus](https://drive.google.com/file/d/1mSVWJYid3GEor1Ikvewi9o4WidV-7kWb/view?usp=sharing). The course ran from March 22 to May 10, 2022 in BBH 242, TR 5:40-6:55pm. 
 
-I added some [notes](https://github.com/hegerty/ECON310/blob/main/ECON_310_Notes.pdf) that cover all the main concepts in the course.
+Here are the course [notes](https://github.com/hegerty/ECON310/blob/main/ECON_310_Notes.pdf) that cover all the main concepts in the course.
 
 Here is a [.pdf](https://www.law.berkeley.edu/wp-content/uploads/2015/04/Proofreading-Marks.pdf) with some Proofreader's markings. I use many (but not all) of them in my work.
 
