@@ -1,5 +1,6 @@
 Understanding Regression Coefficients
 ================
+ECON 310/346, NEIU (Scott W. Hegerty)
 
 This example conducts a “standard” regression using Ordinary Least
 Squares, with the aim of understanding the main output and the
