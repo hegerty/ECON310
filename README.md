@@ -6,9 +6,10 @@
 <b>Here are some new videos for 310. These describe the main statistical procedures covered in the course:</b>  
 [Basic Nonparametric Statistics in R](https://youtu.be/EcfhGy2IFdw)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Lec2_Nonparametric.R)  
 [Introduction to Logistic Regression in R](https://youtu.be/4N3x9jIyXOI)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec3_LogisticReg.R)  
-[Principal Component Analysis Using R](https://youtu.be/Up6ydib8R44)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec4_PCA.R)
+[Principal Component Analysis Using R](https://youtu.be/Up6ydib8R44)&nbsp;&nbsp;&nbsp;&nbsp;  [[.R file]](https://github.com/hegerty/ECON310/blob/main/310_Lec4_PCA.R)  
 [Formatting a Document in LaTeX](https://youtu.be/AMZSL9yiRr8)
 
+<hr>
 <b> Here is some material from my other courses that students should refer to:</b>  
 
 Software:  
