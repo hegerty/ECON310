@@ -18,7 +18,7 @@ Software:
 
 Stats I:    
 [Basic Summary Statistics in R](https://youtu.be/C4K31VFDb1s) &nbsp;&nbsp;&nbsp;&nbsp; [.pdf: [statistical formulas](http://integral-table.com/downloads/stats.pdf)]   
-[Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) &nbsp;&nbsp;&nbsp;&nbsp; [.pdf: [understanding correlations](https://www.japi.org/article/files/principles_of_correlation_analysis.pdf)]       
+[Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) &nbsp;&nbsp;&nbsp;&nbsp; [.pdf: [understanding correlations](https://www.kem.edu/wp-content/uploads/2012/06/9-Principles_of_correlation-1.pdf)]       
 
 Regression Analysis:    
 [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw) &nbsp;&nbsp;&nbsp;&nbsp;[[Excel File]](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)  
